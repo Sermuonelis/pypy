@@ -8,7 +8,10 @@ hungry = input('are you hungry?')
 if hungry == 'yes':
     print('eat smth dude')
 else:
-    print('do your homework')
+    thirsty = input('are you thirsty?')
+    if thirsty == 'yes':
+        print('drink water')
+    #print('do your homework')
 
 #komentaras laba diena 
 #komentaras viso gero
