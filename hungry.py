@@ -11,6 +11,7 @@ else:
     thirsty = input('are you thirsty?')
     if thirsty == 'yes':
         print('drink water')
+        print('drink smth else')
     #print('do your homework')
 
 #komentaras laba diena 
