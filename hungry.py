@@ -9,3 +9,5 @@ if hungry == 'yes':
     print('eat smth dude')
 else:
     print('do your homework')
+
+#komentaras laba diena 
