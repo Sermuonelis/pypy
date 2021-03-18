@@ -11,3 +11,4 @@ else:
     print('do your homework')
 
 #komentaras laba diena 
+#komentaras viso gero
